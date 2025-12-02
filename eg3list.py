@@ -1,9 +1,0 @@
-list=[]
-list.append(1)
-list.append('hi')
-print(list)
-list[0]=2
-print(list)
-a="string"
-print(a[0])
-b=a.replace('s','p')
