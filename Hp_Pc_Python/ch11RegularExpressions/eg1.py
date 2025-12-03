@@ -1,4 +1,4 @@
-#using find print all the line which has "From:" in it
+#using find and  printing all the lines which has "From:" in it
 hand=open('mbox-short.txt')
 for line in hand:
     line=line.rstrip()
