@@ -1,6 +1,0 @@
-fhandle=open('sample.txt')
-readf=fhandle.read()
-readf=readf.strip()
-readsplit=readf.split()
-print(readf,len(readf))
-print(readsplit)
